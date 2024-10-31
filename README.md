@@ -9,9 +9,9 @@ I’ve immersed myself in the Assassin's Creed universe and have played:
 - **Assassin's Creed Revelations**: The secrets of Altair and Ezio intertwined beautifully.
 - **Assassin's Creed Origins**: Exploring Ancient Egypt was a breathtaking adventure!
 
-- 💻 I enjoy programming in:
-  - **C**
-  - **Java**
+## 💻 I enjoy programming in:
+- **C**
+- **Java**
 
 ## 🌟 Current Projects
 
