@@ -13,10 +13,10 @@ I’ve immersed myself in the Assassin's Creed universe and have played:
   - **C**
   - **Java**
 
-## 🚀 Current Projects
+## 🌟 Current Projects
 
-- [YourProject1](link-to-your-project1) - Brief description of your project.
-- [YourProject2](link-to-your-project2) - Brief description of your project.
+- **C-quarta**
+- **Java-quarta**
 
 ## 🌱 I'm currently learning
 
