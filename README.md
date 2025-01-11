@@ -11,6 +11,7 @@ I'm a student and class representative of 4F, passionate about programming and t
 
 - **C-quarta**
 - **Java-quarta**
+- **Sistemi-quarta**
 
 ## 🌱 I'm currently learning
 
