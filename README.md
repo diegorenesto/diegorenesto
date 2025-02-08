@@ -12,6 +12,6 @@ Hello, this is Diego. I love to code and try to learn new things every day.
 
 | Streaks | Languages |
 |---------|-----------|
-| ![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=arnab132&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnab132&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/arnab132) |
+| ![diegorenesto's streaks](https://github-readme-streak-stats.herokuapp.com/?user=diegorenesto&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorenesto&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/diegorenesto) |
 
-![Profile Views](https://komarev.com/ghpvc/?username=arnab132&style=plastic&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=diegorenesto&style=plastic&color=yellow)
