@@ -1,9 +1,9 @@
-### Hi there 👋, This is Diego!
+## Hi there 👋, This is Diego!
 
 Hello, this is Diego. I love to code and try to learn new things every day.
 
-- 🎓 Studente rappresentante della classe 4F
-- 🎮 Appassionato di videogiochi
+- 🎓 Student and Representative of class 4F
+- 🎮 Videogames lover
 
 **Languages and Tools:**
 
